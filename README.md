@@ -40,4 +40,13 @@ Domain :Finance
 Project Difficulties level: Intermediate
 
 
-video link of depolyment: https://github.com/sriphaniN/adult-income-prediction/blob/4057050a051344dc3c16fb4a65cf1f0c00e0edde/project1/prediction.webm
+### Home Page
+![image](https://user-images.githubusercontent.com/93968656/199657004-747ccd18-0ba4-4fd4-8b72-78c72227b349.png)
+
+![image](https://user-images.githubusercontent.com/93968656/199656990-ed7b670f-c806-4df4-9794-04089900a56a.png)
+
+### Result Page
+
+![image](https://user-images.githubusercontent.com/93968656/199657174-3420498c-01fe-4303-93e6-f4eb37ac49fc.png)
+
+![image](https://user-images.githubusercontent.com/93968656/199657156-0da01b1a-0550-42db-b4e2-fb0792c5f36e.png)
