@@ -49,4 +49,5 @@ Project Difficulties level: Intermediate
 
 ![image](https://user-images.githubusercontent.com/93968656/199657174-3420498c-01fe-4303-93e6-f4eb37ac49fc.png)
 
-![image](https://user-images.githubusercontent.com/93968656/199657156-0da01b1a-0550-42db-b4e2-fb0792c5f36e.png)
+![image](https://user-images.githubusercontent.com/93968656/199657234-621fd661-b1a2-4a41-8d46-5a4808429067.png)
+
