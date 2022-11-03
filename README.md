@@ -1,5 +1,5 @@
 <h> INTERNSHIP PROJECT </h>
-# adult-income-prediction project
+# Adult Income Prediction Project
 
 Problem Statement:
 
